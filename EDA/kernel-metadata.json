@@ -1,0 +1,19 @@
+{
+  "id": "dantheshark/RNA-3D-Folding-Understand-Data",
+  "title": "RNA-3D-Folding-Understand-Data",
+  "code_file": "RNA-3D-Folding-Understand-Data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "haronthaimongbunsri/standford-rna-3d-folding-sunny"
+  ],
+  "competition_sources": [
+    "stanford-rna-3d-folding"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}
